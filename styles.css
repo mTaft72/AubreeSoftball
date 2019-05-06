@@ -1,3 +1,5 @@
 .backgroundimage{
-  background: url(softball.jpg);
+  background-image: url(softball.jpg);
+  background-position: center center;
+  background-size: cover;
 }
