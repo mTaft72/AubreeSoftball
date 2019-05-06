@@ -1,8 +1,19 @@
 .backgroundimage{
-  background-image: url(softball.jpg);
-  background-position: center center;
+  background-image: url(baseball.jpg);
+  background-position: bottom center;
   background-size: cover;
+  background-attachment: fixed;
 }
+
+.personalpic{
+  width: 50%;
+  max-width:400px;
+}
+
+.personalpic img{
+  max-width:100%;
+}
+
 .stattable {
   background: rgba(54, 54, 54, 0.4);
   border: 1px solid #ddd;
@@ -19,6 +30,7 @@
 
 h1{
   color: black;
+  text-align: center;
 }
 
 th, td {
