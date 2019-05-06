@@ -3,3 +3,25 @@
   background-position: center center;
   background-size: cover;
 }
+.stattable {
+  background: rgba(54, 54, 54, 0.4);
+  border: 1px solid #ddd;
+  
+}
+
+.stattable table{
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  color: green;
+  overflow-x:auto;
+}
+
+h1{
+  color: black;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
