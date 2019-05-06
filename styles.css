@@ -1,6 +1,6 @@
 .backgroundimage{
   background-image: url(softball.jpg);
-  background-position: bottom center;
+  background-position: 32% 14%;
   background-size: cover;
   background-attachment: fixed;
 }
